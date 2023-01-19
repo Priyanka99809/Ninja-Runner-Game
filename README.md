@@ -11,7 +11,7 @@ Information on how to play is available on the game's itch.io page.
 - Keep avoiding obstackles to create a high score.
 
 ## Game Download
-
+Extract .zip file from code tab and execute "game" file inside it.
 
 ## Running from source
 Grab the latest release of Python from here and install Pygame by executing pip install pygame.
