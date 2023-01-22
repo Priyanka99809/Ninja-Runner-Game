@@ -1,10 +1,11 @@
 # Ninja Runner Game
 
 Ninja Runner is a game developed using Python with Pygame library 
-## Screenshots
+##Screenshot of Game
+
+[Ninja Runner.webm](https://user-images.githubusercontent.com/110349711/213927298-64ae9e24-71f5-4744-92a1-cbe0adb55e5b.webm)
 
 ## Background
-Information on how to play is available on the game's itch.io page.
 ## Instructions to play
 - Press space or click mouse button to start or restart.
 - Press space or any mouse button to Jump to avoid obstackles.
