@@ -1,7 +1,7 @@
 # Ninja Runner Game
 
 Ninja Runner is a game developed using Python with Pygame library 
-##Screenshot of Game
+## Screenshot of Game
 
 [Ninja Runner.webm](https://user-images.githubusercontent.com/110349711/213927298-64ae9e24-71f5-4744-92a1-cbe0adb55e5b.webm)
 
